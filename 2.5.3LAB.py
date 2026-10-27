@@ -1,0 +1,16 @@
+#this program computes the number of seconds in a given number of hours
+hours=2 # number of hours
+seconds = 3600 # number of seconds in 1 hour
+print("hours:",hours) #printing the number of hours
+print("seconds in hours:",hours * seconds)#printing the number of seconds in given number of hours
+
+
+#I have a lab mission to about trying comments and yes rn I'm testing things out by removing unnecessary comments and adding my own comment!
+#I improved the original code by renaming the ambiguous variable 'a' to 'hours'
+#uncommenting and fixing the second print statement so the calculation actually runs 
+#changing the final comment from '3 hours' to '2 hours'
+#deleting the unnecessary comment
+#and adding my own custom comment about testing things out for a lab mission
+
+
+#this is the end of the program that computes  the number of sconds in 2 hour
